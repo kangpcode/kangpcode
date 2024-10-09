@@ -15,9 +15,9 @@
 
 - 🤝 Saya mencari bantuan [Website PCode](https://pcode.my.id)
 
-- 👨‍💻 Semua proyek saya tersedia di [https://pcode.my.id](https://pcode.my.id)
+- 👨‍💻 Semua proyek saya tersedia di [OFFICIAL WEBSITE PCODE](https://pcode.my.id)
 
-- 📝 Saya rutin menulis artikel di [https://forum.pcode.my.id](https://forum.pcode.my.id)
+- 📝 Mau Deptalk Langsung Aja Ke [Forum Diskusi Dan Sharing](https://forum.pcode.my.id)
 
 - 💬 Tanyakan padaku tentang **pasran-language,aplikasi, website, dan lainya.**
 
