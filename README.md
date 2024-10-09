@@ -23,7 +23,7 @@ I completed my PhD in Machine Learning from [Federation University](https://fede
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+![php](https://img.shields.io/badge/php-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### ML/DL
@@ -39,7 +39,7 @@ I completed my PhD in Machine Learning from [Federation University](https://fede
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/Fire base-316192?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
