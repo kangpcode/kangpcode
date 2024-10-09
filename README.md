@@ -17,7 +17,7 @@
 
 - 👨‍💻 Semua proyek saya tersedia di [https://pcode.my.id](https://pcode.my.id)
 
-- 📝 Saya rutin menulis artikel di [https://pcode.my.id/blogs](https://pcode.my.id/blogs)
+- 📝 Saya rutin menulis artikel di [https://forum.pcode.my.id](https://forum.pcode.my.id)
 
 - 💬 Tanyakan padaku tentang **pasran-language,aplikasi, website, dan lainya.**
 
