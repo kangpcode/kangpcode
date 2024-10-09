@@ -1,4 +1,4 @@
-### Hi there, I'm [Durgesh Samariya](https://durgeshsamariya.github.io) 👋
+### Hi there, I'm [Dhafa Nazula P](https://kang.pcode.my.id) 👋
 
 I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
@@ -39,6 +39,7 @@ I completed my PhD in Machine Learning from [Federation University](https://fede
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=firebase&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 
