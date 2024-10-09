@@ -9,7 +9,7 @@
 
 - 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [Aplikasi WIPStore](https://store.wipi.my.id)
 
-- 🌱 Saat ini saya sedang belajar mengembangkan **Bahasa Pemrograman pasran-language**
+- 🌱 Saat ini saya sedang belajar mengembangkan **Bahasa Pemograman pasran-language**
 
 - 👯 Saya ingin berkolaborasi [Website PCode](https://pcode.my.id)
 
