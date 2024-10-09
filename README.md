@@ -15,7 +15,7 @@
 
 - 🤝 Saya mencari bantuan [Website PCode](https://pcode.my.id)
 
-- 👨‍💻 Semua proyek saya tersedia di [OFFICIAL WEBSITE PCODE](https://pcode.my.id)
+- 👨‍💻 Semua proyek saya tersedia di [Official Website Pcode](https://pcode.my.id)
 
 - 📝 Mau Deptalk Langsung Aja Ke [Forum Diskusi Dan Sharing](https://forum.pcode.my.id)
 
@@ -23,7 +23,7 @@
 
 - 📫 Bagaimana cara menghubungi saya **dhafanp@pcode.my.id**
 
-- 📄 Tahu tentang pengalaman saya [https://kang.pcode.my.id](https://kang.pcode.my.id)
+- 📄 Tahu tentang pengalaman saya [Website Pribadi Saya](https://kang.pcode.my.id)
 
 - ⚡ Fakta menarik **print(Jago IT Pinter Ngaji)**
 
