@@ -1,5 +1,15 @@
 ### Hi there, I'm [Dhafa Nazula P](https://kang.pcode.my.id) 👋
 
+<details>
+  <summary><h2> <img align="center" src="https://github.com/[YourUsername]/[YourUsername]/blob/main/icons/stats.gif" width="32"/> Stats</h2></summary>
+  <div align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=[kangpcode]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=[kangpcode]&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=[kangpcode]&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+    ![](https://github-readme-activity-graph.vercel.app/graph?username=[kangpcode]&theme=tokyo-night)
+  </div>
+</details>
+
 I completed my PhD in Machine Learning from [Federation University](https://federation.edu.au), Australia. Apart from that, I am a seasonal ML developer who loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
 
 **My Research Interest**:
