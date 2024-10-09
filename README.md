@@ -23,7 +23,7 @@
 
 - 📫 Bagaimana cara menghubungi saya **dhafanp@pcode.my.id**
 
-- 📄 Tahu tentang pengalaman saya [Website Pribadi Saya](https://kang.pcode.my.id)
+- 📄 Mau Cari Tahu tentang pengalaman saya Lihat Saja Di [Website Pribadi Saya](https://kang.pcode.my.id)
 
 - ⚡ Fakta menarik **print(Jago IT Pinter Ngaji)**
 
