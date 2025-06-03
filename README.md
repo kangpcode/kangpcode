@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dnazper" target="blank"><img src="https://img.shields.io/twitter/follow/dnazper?logo=twitter&style=for-the-badge" alt="dnazper" /></a> </p>
 
-- 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [Tixara Platform](https://tixara.pcode.my.id)
+- 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [Tixara Platform](https://tixara.pcode.my.id) Yaitu Platform Jual Beli Tiket Event, Konser Dengan Modern Dan Keren, Dan Amanah.
 
 - 🌱 Saat ini saya sedang belajar mengembangkan **Bahasa Pemograman Khatulistiwa nusantara code language yang di singkat NusaCode**
 
