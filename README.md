@@ -9,13 +9,13 @@
 
 - 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [Tixara Platform](https://tixara.pcode.my.id) Yaitu Platform Jual Beli Tiket Event, Konser Dengan Modern Dan Keren, Dan Amanah.
 
-- 🌱 Saat ini saya sedang belajar mengembangkan **Bahasa Pemograman Khatulistiwa nusantara code language yang di singkat NusaCode**
+- 🌱 Saat ini saya sedang belajar mengembangkan **Bahasa Pemograman Khatulistiwa nusantara code language yang di singkat NusaCodeLang**
 
 - 👯 Saya ingin berkolaborasi [Website PCode](https://pcode.my.id)
 
 - 🤝 Saya mencari bantuan [Website PCode](https://pcode.my.id)
 
-- 👨‍💻 Semua proyek saya tersedia di [Official Website Pcode](https://pcode.my.id)
+- 👨‍💻 Semua proyek saya tersedia di [Official Website Pcode](https://katalog-project.pcode.my.id)
 
 - 📝 Mau Deptalk Langsung Aja Ke [Forum Diskusi Dan Sharing](https://forum.pcode.my.id)
 
