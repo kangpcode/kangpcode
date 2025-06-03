@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dnazper" target="blank"><img src="https://img.shields.io/twitter/follow/dnazper?logo=twitter&style=for-the-badge" alt="dnazper" /></a> </p>
 
-- 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [Aplikasi WIPStore](https://store.wipi.my.id)
+- 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [Tixara Platform](https://tixara.pcode.my.id)
 
-- 🌱 Saat ini saya sedang belajar mengembangkan **Bahasa Pemograman pasran-language**
+- 🌱 Saat ini saya sedang belajar mengembangkan **Bahasa Pemograman Khatulistiwa nusantara code language yang di singkat NusaCode**
 
 - 👯 Saya ingin berkolaborasi [Website PCode](https://pcode.my.id)
 
@@ -19,7 +19,7 @@
 
 - 📝 Mau Deptalk Langsung Aja Ke [Forum Diskusi Dan Sharing](https://forum.pcode.my.id)
 
-- 💬 Tanyakan padaku tentang **pasran-language,aplikasi, website, dan lainya.**
+- 💬 Tanyakan padaku tentang **NusaCode,aplikasi, website, dan lainya.**
 
 - 📫 Bagaimana cara menghubungi saya **dhafanp@pcode.my.id**
 
