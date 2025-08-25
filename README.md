@@ -4,7 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kangpcode&label=Profile%20views&theme=juicyfresh
 &style=flat" alt="kangpcode" /> </p>
 
-[![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=kangpcode&wantAll=true)](https://github.com/kangpcode)
+<p align="left">
+  <a href="https://github.com/kangpcode">
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=kangpcode&theme=juicyfresh" alt="kangpcode" />
+  </a>
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/dnazper" target="blank"><img src="https://img.shields.io/twitter/follow/dnazper?logo=twitter&style=for-the-badge" alt="dnazper" /></a> </p>
