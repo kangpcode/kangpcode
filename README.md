@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhafa Nazula Permadi</h1>
 <h3 align="center">Developer, Cyber Security, Enterpreuner, Dan Content Creators, Yang Berasal Dari Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kangpcode&label=Profile%20views&color=0e75b6&style=flat" alt="kangpcode" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kangpcode&label=Profile%20views&theme=juicyfresh
+&style=flat" alt="kangpcode" /> </p>
 
 [![trophy](https://github-profile-trophy.screw-hand.vercel.app/?username=kangpcode&wantAll=true)](https://github.com/kangpcode)
 
