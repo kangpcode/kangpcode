@@ -9,16 +9,10 @@
   </a>
 </p>
 
-<img src="https://img.shields.io/badge/Instagram-SEEHAI.DHAFA-0f172a?logo=instagram&logoColor=white&style=for-the-badge">
-
-
-<a href="https://linkedin.com/in/dhafa-nazula-permadi](https://www.linkedin.com/in/dhafa-nazula-permadi-b459112a6/">
-  <img src="https://img.shields.io/badge/LinkedIn-kangpcode-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
-</a>
-
-<a href="https://x.com/seehai.dhafa">
-  <img src="https://img.shields.io/badge/X-@kangpcode-000000?logo=x&logoColor=white&style=for-the-badge">
-</a>
+<p align="center">
+  <a href="https://instagram.com/seehai.dhafa"><img src="https://img.shields.io/badge/Instagram-@seehai.dhafa-E4405F?logo=instagram&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/kangpcode](https://www.linkedin.com/in/dhafa-nazula-permadi-b459112a6"><img src="https://img.shields.io/badge/LinkedIn-kangpcode-0A66C2?logo=linkedin&style=for-the-badge"></a>
+</p>
 
 
 - 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [EReacthThohir](https://ereactthohir.pcode.my.id/) Yaitu Sebuah Framework Fullstack Typescrpt dan Javascript**
