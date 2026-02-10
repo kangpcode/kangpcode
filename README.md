@@ -10,7 +10,7 @@
 </p>
 
 
-<p align="left"> <a href="https://instagram.com/seehai.dhafa" target="blank"><img src="https://img.shields.io/instagram/follow/seehai.dhafa?logo=instagram&style=for-the-badge" alt="seehai.dhafa" /></a> </p>
+<img src="https://img.shields.io/badge/Instagram-SEEHAI.DHAFA-0f172a?logo=instagram&logoColor=white&style=for-the-badge">
 
 - 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [EReacthThohir](https://ereactthohir.pcode.my.id/) Yaitu Sebuah Framework Fullstack Typescrpt dan Javascript**
 
