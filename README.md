@@ -9,6 +9,9 @@
   </a>
 </p>
 
+<a href="https://linkedin.com/in/kangpcode">
+  <img src="https://img.shields.io/badge/LinkedIn-kangpcode-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
+</a>
 
 <img src="https://img.shields.io/badge/Instagram-SEEHAI.DHAFA-0f172a?logo=instagram&logoColor=white&style=for-the-badge">
 
