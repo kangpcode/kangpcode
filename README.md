@@ -9,11 +9,16 @@
   </a>
 </p>
 
-<a href="https://linkedin.com/in/kangpcode">
+<a href="https://linkedin.com/in/dhafa-nazula-permadi](https://www.linkedin.com/in/dhafa-nazula-permadi-b459112a6/">
   <img src="https://img.shields.io/badge/LinkedIn-kangpcode-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge">
 </a>
 
 <img src="https://img.shields.io/badge/Instagram-SEEHAI.DHAFA-0f172a?logo=instagram&logoColor=white&style=for-the-badge">
+
+<a href="https://x.com/seehai.dhafa">
+  <img src="https://img.shields.io/badge/X-@kangpcode-000000?logo=x&logoColor=white&style=for-the-badge">
+</a>
+
 
 - 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [EReacthThohir](https://ereactthohir.pcode.my.id/) Yaitu Sebuah Framework Fullstack Typescrpt dan Javascript**
 
