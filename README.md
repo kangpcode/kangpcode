@@ -10,25 +10,21 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/dnazper" target="blank"><img src="https://img.shields.io/twitter/follow/dnazper?logo=twitter&style=for-the-badge" alt="dnazper" /></a> </p>
+<p align="left"> <a href="https://instagram.com/seehai.dhafa" target="blank"><img src="https://img.shields.io/instagram/follow/seehai.dhafa?logo=instagram&style=for-the-badge" alt="seehai.dhafa" /></a> </p>
 
-- 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [Tixara Platform](https://tixara.pcode.my.id) Yaitu Platform Jual Beli Tiket Event, Konser Dengan Modern Dan Keren, Dan Amanah.
-
-- 🌱 Saat ini saya sedang belajar mengembangkan **Bahasa Pemograman Khatulistiwa nusantara code language yang di singkat NusaCodeLang**
+- 🔭 Projects Kerjaan Yang Sedang Saya Kembangkan [EReacthThohir](https://ereactthohir.pcode.my.id/) Yaitu Sebuah Framework Fullstack Typescrpt dan Javascript**
 
 - 👯 Saya ingin berkolaborasi [Website PCode](https://pcode.my.id)
 
-- 🤝 Saya mencari bantuan [Website PCode](https://pcode.my.id)
-
-- 👨‍💻 Semua proyek saya tersedia di [Katalog Project PCode](https://katalog-project.pcode.my.id)
+- 👨‍💻 Semua proyek saya tersedia di [Katalog Project PCode](https://worth-it.pcode.my.id)
 
 - 📝 Mau Deptalk Langsung Aja Ke [Forum Diskusi Dan Sharing](https://forum.pcode.my.id)
 
-- 💬 Tanyakan padaku tentang **NusaCode,aplikasi, website, dan lainya.**
+- 💬 Tanyakan padaku tentang **EReactThohir Framework, aplikasi, website, dan lainya.**
 
 - 📫 Bagaimana cara menghubungi saya **dhafanp@pcode.my.id**
 
-- 📄 Mau Cari Tahu tentang pengalaman saya Lihat Saja Di [Website Pribadi Saya](https://kang.pcode.my.id)
+- 📄 Mau Cari Tahu tentang pengalaman saya Lihat Saja Di [Website Pribadi Saya](https://worth-it.pcode.my.id/contact)
 
 - ⚡ Fakta menarik **print(Jago IT Pinter Ngaji)**
 
